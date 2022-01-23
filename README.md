@@ -1,1 +1,1 @@
-# minishell
+# Minishell in C
